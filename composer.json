@@ -1,0 +1,11 @@
+{
+    "name": "jneto/hierachical-tree",
+    "description": "Managing hierarchical tree like folders or menus",
+    "authors": [
+        {
+            "name": "José Proença",
+            "email": "hierachical-tree@rah.pt"
+        }
+    ],
+    "require": {}
+}
